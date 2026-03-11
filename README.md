@@ -1,5 +1,5 @@
 ````md
-# Taghyeer Flutter Assignment
+# Taghyeer Flutter Assignment 
 
 A production-ready Flutter application built for the **Flutter Developer Technical Assignment** of **Taghyeer Technologies**.
 
