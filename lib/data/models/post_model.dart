@@ -1,4 +1,3 @@
-// post_model.dart
 import '../../domain/entities/post_entity.dart';
 
 class PostModel extends PostEntity {

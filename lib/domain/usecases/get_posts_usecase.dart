@@ -1,4 +1,3 @@
-// get_posts_usecase.dart
 import '../../core/utils/result.dart';
 import '../entities/post_entity.dart';
 import '../repositories/post_repository.dart';

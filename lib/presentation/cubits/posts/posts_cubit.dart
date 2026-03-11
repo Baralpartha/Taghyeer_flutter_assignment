@@ -1,4 +1,3 @@
-// posts_cubit.dart
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../../core/constants/api_constants.dart';

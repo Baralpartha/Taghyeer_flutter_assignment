@@ -1,4 +1,3 @@
-// products_state.dart
 import '../../../domain/entities/product_entity.dart';
 
 class ProductsState {

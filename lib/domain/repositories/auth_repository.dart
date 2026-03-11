@@ -1,4 +1,3 @@
-// auth_repository.dart
 import '../../core/utils/result.dart';
 import '../entities/user_entity.dart';
 
