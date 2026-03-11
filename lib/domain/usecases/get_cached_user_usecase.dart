@@ -1,0 +1,11 @@
+// get_cached_user_usecase.dart
+import '../../core/utils/result.dart';
+import '../entities/user_entity.dart';
+import '../repositories/auth_repository.dart';
+
+class GetCachedUserUseCase {
+  final AuthRepository repository;
+  GetCachedUserUseCase(this.repository);
+
+  Future<Result<UserEntity?>> call() => repository.getCachedUser();
+}
